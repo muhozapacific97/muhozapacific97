@@ -1,0 +1,17 @@
+h1{
+  font-style: italic;
+  color: yellow;
+}
+
+body{
+  color: blue;
+  font-style: oblique;
+  
+}
+p{
+  color: chocolate
+}
+body{
+  background-image: url("h.jpg");
+  background-size: 500px;
+}
